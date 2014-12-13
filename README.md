@@ -1,4 +1,6 @@
-personal_web_page_for_sister
-============================
+## 王**的个人主页
 
-a simple web page for my sister
+### 库依赖
+- bootstrap
+- jquery
+- lodash
